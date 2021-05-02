@@ -1,0 +1,1 @@
+Packer template with ansible written to create wordpress site
